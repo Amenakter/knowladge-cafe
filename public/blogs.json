@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "title": "Exploring the Wonders of Cox’s Bazar",
+    "author_img": "https://i.ibb.co.com/nbhpGFJ/man-with-blue-jacket-shirt-that-says-smile-1249303-7418.jpg",
+    "author": "Alice Johnson",
+    "date": "2024-10-20",
+    "img": "https://i.ibb.co.com/42KWcmF/blue-nature-beautiful-swimming-sea-1203-4766.jpg",
+    "reading_time": 8,
+    "tag": "travel"
+  },
+  {
+    "id": 1,
+    "title": "A Journey to the Heart of Sundarbans",
+    "author_img": "https://i.ibb.co.com/chLZBtW/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded.jpg",
+    "author": "Mark Hamilton",
+    "date": "2024-09-30",
+    "img": "https://i.ibb.co.com/y0qB1sT/young-family-vacation-have-lot-fun-109800-14065.jpg",
+    "reading_time": 10,
+    "tag": "wildlife"
+  },
+  {
+    "id": 2,
+    "title": "Discovering the Beauty of Bandarban Hills",
+    "author_img": "https://i.ibb.co.com/D9nKFdk/young-bearded-man-with-striped-shirt.jpg",
+    "author": "Emma Clarke",
+    "date": "2024-08-25",
+    "img": "https://i.ibb.co.com/J2X1VWX/friends-beach-with-beer-23-2147827118.jpg",
+    "reading_time": 7,
+    "tag": "adventure"
+  },
+  {
+    "id": 3,
+    "title": "Saint Martin’s Island: A Tranquil Getaway",
+    "author_img": "https://i.ibb.co.com/88dPCpq/senior-man-smile-portrait-field-260nw-2500134897.jpg",
+    "author": "David Reed",
+    "date": "2024-07-15",
+    "img": "https://i.ibb.co.com/L5Gj8T6/resort-photos-background-copy-space-1179130-736371.jpg",
+    "reading_time": 6,
+    "tag": "beach"
+  },
+  {
+    "id": 4,
+    "title": "The Tea Gardens of Srimangal",
+    "author_img": "https://i.ibb.co.com/yngRwJ5/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "author": "Sophia Turner",
+    "date": "2024-06-10",
+    "img": "https://i.ibb.co.com/TR69znT/couple-having-fun-water-beach-23-2147648995.jpg",
+    "reading_time": 5,
+    "tag": "nature"
+  },
+  {
+    "id": 5,
+    "title": "Kuakata: Where the Sun Rises and Sets",
+    "author_img": "https://i.ibb.co.com/x1HYVCn/front-view-smiley-business-man-23-2148479583.jpg",
+    "author": "John Peterson",
+    "date": "2024-05-05",
+    "img": "https://i.ibb.co.com/D9PGMfg/friends-playing-music-beach-23-2147647218.jpg",
+    "reading_time": 9,
+    "tag": "coastal"
+  }
+]
